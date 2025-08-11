@@ -1,0 +1,86 @@
+/**** Importation des polices Roboto et Montserrat ****/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+/**** reset *****/
+
+*,
+::before,
+::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/**** body ****/
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #111111;
+    color: #ffffff;
+}
+
+/**** header, footer ****/
+
+header,
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 15px;
+    font-family: "Roboto", sans-serif;
+}
+
+.title {
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+/**** main ****/
+
+.main__content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+    width: 80%;
+    padding: 20px;
+}
+
+/**** section container ****/
+
+.container {
+    columns: 250px 3;
+    column-rule: 2px solid #cccccc;
+    gap: 50px;
+}
+
+.subtitle {
+    column-span: all;
+    color: #ff1493;
+    margin-bottom: 15px;
+    font-size: 22px;
+    font-family: "Roboto", sans-serif;
+}
+
+.subtitle,
+.text {
+    line-height: 1.9;
+}
+
+.text {
+    font-size: 18px;
+    font-family: "Montserrat", sans-serif;
+}
+
+/**** footer paragraphe ****/
+
+footer p {
+    font-size: 18px;
+    text-align: center;
+}
