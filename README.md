@@ -19,3 +19,16 @@ De plus, la compatibilité avec les navigateurs est excellente : plus de 95,5 %.
 ## Démonstration
 
 Lien vers le projet : https://aperbet56.github.io/simple_columns_css/
+
+## Projet développé avec
+
+- Utilisation des balises sémantiques HTML5
+- CSS3
+- Flexbox
+- Propriétés CSS : columns, column-rule, column-span et gap
+- Page web responsive
+- Desktop first
+- Utilisation d'un normaliseur : le fichier normalize.css
+- Importation des polices "Roboto" et "Montserrat"
+- Commentaires HTML
+- Commentaires CSS
