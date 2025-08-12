@@ -2,7 +2,7 @@
 
 ## Le challenge
 
-Création d'une disposition en colonne en HTML5 et CSS3 sans utiliser flexbox et/ou grid. Pour se faire :
+Création de simples colonnes en HTML5 et CSS3 sans utiliser flexbox et/ou grid. Pour se faire :
 Appliquez la propriété "columns" au conteneur. Cette propriété accepte jusqu'à deux valeurs :
 
 1. La largeur minimale d'une colonne (facultatif)
