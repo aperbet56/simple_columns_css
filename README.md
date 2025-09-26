@@ -1,5 +1,7 @@
 ## SIMPLE COLUMNS IN CSS
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Création de simples colonnes en HTML5 et CSS3 sans utiliser flexbox et/ou grid. Pour se faire :
